@@ -1,7 +1,7 @@
 
 
 
-# Dicee 🎲
+# Dice Roll 🎲
 
 ## Our Goal
 
